@@ -1,0 +1,19 @@
+{
+  "name": "node2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app",
+    "start": "node index.js"
+  },
+  "author": "teerapat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
